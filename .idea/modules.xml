@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/dynodemo.iml" filepath="$PROJECT_DIR$/.idea/dynodemo.iml" />
+      <module fileurl="file://$USER_HOME$/Dropbox/IDW/thinking_question/.idea/thinking_question.iml" filepath="$USER_HOME$/Dropbox/IDW/thinking_question/.idea/thinking_question.iml" />
+    </modules>
+  </component>
+</project>
